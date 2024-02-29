@@ -184,7 +184,7 @@ daily_pred %>% ggplot() +
 
 # Analysis
 
-### Bias: 
+### Bias:
 
 can come from the reports and also people not reporting any incidents. I do not find myself having much of a bias other than i do not like gang violence.
 
@@ -192,9 +192,9 @@ can come from the reports and also people not reporting any incidents. I do not 
 
 This shows a very high correlation with more incidents in the warmer seasons of the year and a drop off in the colder seasons of the year. This is to expected with more activity outside and mixing with other people during the warm seasons and less activity in the colder seasons.
 
-## Boros
+## Boroughs
 
-Based on the information provided by the State of New York we can see some distinct trends. Two of the five Boros make up the majority of the shooting incidents (Bronx and Brooklyn) with the next Boro Queens coming in third with half the amount of shootings as Bronx and nearly a 1/3 of the incidents of Brooklyn. It's hard to justify exactly why that is base on the limited information and only having the shooting reports. Also to keep in mind these are only the reported incidents and there should be some acknowledgment for those incidents that did not go reported. From this information alone one could guess this would have to do with either gang activity or lack of police in these areas compared to other Boros of NYC.
+Based on the information provided by the State of New York we can see some distinct trends. Two of the five Boroughs make up the majority of the shooting incidents (Bronx and Brooklyn) with the next Boroughs Queens coming in third with half the amount of shootings as Bronx and nearly a 1/3 of the incidents of Brooklyn. It's hard to justify exactly why that is base on the limited information and only having the shooting reports. Also to keep in mind these are only the reported incidents and there should be some acknowledgment for those incidents that did not go reported. From this information alone one could guess this would have to do with either gang activity or lack of police in these areas compared to other Boroughs of NYC.
 
 ## Age Range
 

@@ -1,5 +1,5 @@
 ---
-title: "NYPD_Shooting_Incident_Data_Report"
+title: "NYPD Shooting Incident Data Report"
 date: "2024-02-24"
 output:
   pdf_document: default
@@ -118,7 +118,7 @@ ggplot(boro_counts, aes(x = BORO, y = count)) +
     geom_col(aes(y = deaths), fill = "red", alpha = 0.5) +
     theme(legend.position = "bottom",
           axis.text.x = element_text(angle = 90, vjust = 0.5))+
-    labs(title = "Shooting Incidients Per Boro NYC", x = "Boro", y = "Number of Incidents")
+    labs(title = "Shooting Incidients Per Borough NYC", x = "Borough", y = "Number of Incidents")
 ```
 
 ```{r Perp Age Range}
